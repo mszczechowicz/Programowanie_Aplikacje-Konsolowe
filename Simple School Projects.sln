@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zgadywanie_ liczby", "Zgadywanie_ liczby.csproj", "{21262646-292D-44C9-92F3-D19B02C6C04F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ile_do_emerytury", "..\ile_do_emerytury\ile_do_emerytury.csproj", "{DDE5B1E0-FFC2-4195-959B-0B8DDF0AB60A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trójkąt", "..\Trójkąt\Trójkąt.csproj", "{7C0DC2C9-88EB-45F8-AD4A-5AB87E1CB8BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wzorek ASCI", "..\Wzorek ASCI\Wzorek ASCI.csproj", "{90931B1C-32D0-481D-ACFC-5C2340516FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tablice", "..\Tablice\Tablice.csproj", "{47A6D380-613B-431E-A5E0-1418157857F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LED", "..\LED\LED.csproj", "{870B2120-DCA4-4433-8517-C0C0616A900D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21262646-292D-44C9-92F3-D19B02C6C04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21262646-292D-44C9-92F3-D19B02C6C04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21262646-292D-44C9-92F3-D19B02C6C04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21262646-292D-44C9-92F3-D19B02C6C04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE5B1E0-FFC2-4195-959B-0B8DDF0AB60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE5B1E0-FFC2-4195-959B-0B8DDF0AB60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE5B1E0-FFC2-4195-959B-0B8DDF0AB60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE5B1E0-FFC2-4195-959B-0B8DDF0AB60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0DC2C9-88EB-45F8-AD4A-5AB87E1CB8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0DC2C9-88EB-45F8-AD4A-5AB87E1CB8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0DC2C9-88EB-45F8-AD4A-5AB87E1CB8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0DC2C9-88EB-45F8-AD4A-5AB87E1CB8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90931B1C-32D0-481D-ACFC-5C2340516FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90931B1C-32D0-481D-ACFC-5C2340516FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90931B1C-32D0-481D-ACFC-5C2340516FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90931B1C-32D0-481D-ACFC-5C2340516FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A6D380-613B-431E-A5E0-1418157857F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A6D380-613B-431E-A5E0-1418157857F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A6D380-613B-431E-A5E0-1418157857F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A6D380-613B-431E-A5E0-1418157857F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870B2120-DCA4-4433-8517-C0C0616A900D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870B2120-DCA4-4433-8517-C0C0616A900D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870B2120-DCA4-4433-8517-C0C0616A900D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870B2120-DCA4-4433-8517-C0C0616A900D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DFB0F56-4714-480D-A29F-9EDF4564A141}
+	EndGlobalSection
+EndGlobal
